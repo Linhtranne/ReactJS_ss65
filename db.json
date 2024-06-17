@@ -1,0 +1,24 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "usernname": "Linhtranne",
+      "password": "123456789",
+      "email": "linhtranne@gmail.com",
+      "date": "2024-06-14"
+    },
+    {
+      "id": "5812",
+      "username": "wwww",
+      "password": "wwww"
+    }
+  ],
+  "register": [
+    {
+      "id": "d2d7",
+      "username": "wwww",
+      "password": "wwwww",
+      "status": true
+    }
+  ]
+}   
